@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PiroSMP12.aternos.me",
-    "port": 46686,
+    "ip": "PiroSMP3.aternos.me",
+    "port": 38469,
     "version": "1.20.1",
     "try-creative": false
   },
